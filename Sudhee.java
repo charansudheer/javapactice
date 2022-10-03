@@ -1,7 +1,7 @@
 package TestSD;
 
 public class Sudhee {
-
+/*this code is for star printing */
 	public static void main(String[] args) 
 	{
 		int r = 10,t=3;
